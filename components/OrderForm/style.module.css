@@ -1,0 +1,7 @@
+.container label {
+    color: var(--orange-yellow);
+}
+.container {
+    width: 30%;
+
+}
